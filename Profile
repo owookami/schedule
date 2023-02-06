@@ -1,9 +1,6 @@
 //Profile
 web: gunicorn schedule.wsgi
 
-// runtime.txt, python -V
-Python-3.11.0
-
 // .gitifnore
 __pycache__/
 *.py[cod]
